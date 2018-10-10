@@ -1,0 +1,7 @@
+{
+  "name": "ProjetoAula",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
